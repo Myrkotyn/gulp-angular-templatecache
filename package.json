@@ -37,7 +37,7 @@
     "event-stream": "3.3.4",
     "gulp-concat": "git://github.com/Myrkotyn/gulp-concat",
     "gulp-footer": "2.0.1",
-    "gulp-header": "2.0.5",
+    "gulp-header": "git://github.com/Myrkotyn/gulp-header",
     "jsesc": "2.5.1",
     "lodash.template": "^4.4.0",
     "through2": "^0.6.5"
